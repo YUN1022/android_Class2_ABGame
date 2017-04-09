@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="d0440672.iecs.fcu.class2.MainActivity">
+    <item
+        android:id="@+id/action_ans"
+        android:orderInCategory="100"
+        android:title="顯示答案"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_author"
+        android:orderInCategory="100"
+        android:title="作者"
+        app:showAsAction="never" />
+</menu>
